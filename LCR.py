@@ -20,7 +20,7 @@ def main():
     round = 0
     # Initialize the variable that determines when the game is over
     game = False
-    # Initialize a list that holds the players
+    # Initialize a list that holds th           e players
     playerList = []
     # Loop will catch ValueError if a non-integer is entered and prompt the user to try again
     while True:

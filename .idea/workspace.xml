@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d54ebd8f-1447-4a14-a7fa-e460a0b39331" name="Default Changelist" comment="" />
+    <list default="true" id="d54ebd8f-1447-4a14-a7fa-e460a0b39331" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LCR.py" beforeDir="false" afterPath="$PROJECT_DIR$/LCR.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,16 +13,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/GameLab1$LCR.coverage" NAME="LCR Coverage Results" MODIFIED="1536257907402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GameLab1$LCR.coverage" NAME="LCR Coverage Results" MODIFIED="1536274119459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-570387584">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -33,12 +38,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="3132" />
+          <entry key="py" value="3135" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="3132" />
+          <entry key="Python" value="3135" />
         </counts>
       </usages-collector>
     </session>
@@ -48,10 +53,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LCR.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="12" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+            <state relative-caret-position="198">
+              <caret line="31" column="19" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="31" selection-end-column="19" />
               <folding>
-                <marker date="1536257907390" expanded="true" signature="361:362" ph="..." />
+                <marker date="1536274781839" expanded="true" signature="361:362" ph="..." />
               </folding>
             </state>
           </provider>
@@ -73,6 +78,9 @@
       <find>numplayers</find>
       <find>centerBank</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -172,24 +180,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="889" height="1050" extended-state="6" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37072018" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1941392" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936507" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936507" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32142857" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32936507" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005903" side_tool="true" weight="0.32936507" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32936507" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49940968" visible="true" weight="0.32936507" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49940968" weight="0.7281746" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -206,10 +215,10 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/LCR.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="12" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+        <state relative-caret-position="198">
+          <caret line="31" column="19" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="31" selection-end-column="19" />
           <folding>
-            <marker date="1536257907390" expanded="true" signature="361:362" ph="..." />
+            <marker date="1536274781839" expanded="true" signature="361:362" ph="..." />
           </folding>
         </state>
       </provider>
